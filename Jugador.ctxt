@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Jugador
+comment0.text=\r\n\ Clase\ abstracta\ que\ representa\ a\ quien\ juega.\r\n\ Cada\ tipo\ de\ jugador\ decide\ c\u00F3mo\ colocar\ su\ flota\ y\ c\u00F3mo\ elegir\ su\ disparo.\r\n
+comment1.params=nombre
+comment1.target=Jugador(java.lang.String)
+comment2.params=
+comment2.target=void\ colocarFlota()
+comment3.params=
+comment3.target=int[]\ elegirDisparo()
+comment4.params=
+comment4.target=boolean\ esHumano()
+comment5.params=
+comment5.target=boolean\ perdio()
+comment6.params=
+comment6.target=java.lang.String\ getNombre()
+comment7.params=
+comment7.target=Tablero\ getTablero()
+comment8.params=
+comment8.target=java.util.List\ crearFlota()
+comment8.text=Crea\ la\ flota\ est\u00E1ndar\ que\ usa\ cada\ jugador.
+comment9.params=
+comment9.target=void\ colocarAleatorio()
+comment9.text=Coloca\ todos\ los\ barcos\ en\ posiciones\ al\ azar.
+numComments=10

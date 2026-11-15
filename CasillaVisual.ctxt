@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CasillaVisual
+comment0.text=\r\n\ Representa\ una\ casilla\ dibujada\ en\ pantalla.\ Cambia\ de\ imagen\ seg\u00FAn\r\n\ lo\ que\ haya\ en\ el\ tablero\ (agua,\ barco,\ tocado\ o\ fallo)\ y\ avisa\ al\r\n\ mundo\ cuando\ se\ le\ hace\ clic.\r\n
+comment1.params=fila\ col\ esRival
+comment1.target=CasillaVisual(int,\ int,\ boolean)
+comment2.params=simbolo
+comment2.target=void\ actualizar(char)
+comment2.text=Cambia\ la\ imagen\ seg\u00FAn\ el\ s\u00EDmbolo\ del\ tablero.
+comment3.params=
+comment3.target=void\ act()
+numComments=4

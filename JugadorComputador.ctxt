@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=JugadorComputador
+comment0.text=\r\n\ Jugador\ controlado\ por\ la\ computadora\:\ coloca\ y\ dispara\ al\ azar,\r\n\ pero\ recuerda\ d\u00F3nde\ ya\ dispar\u00F3\ para\ no\ repetir.\r\n
+comment1.params=
+comment1.target=JugadorComputador()
+comment2.params=
+comment2.target=boolean\ esHumano()
+comment3.params=
+comment3.target=void\ colocarFlota()
+comment4.params=
+comment4.target=int[]\ elegirDisparo()
+numComments=5

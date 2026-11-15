@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DisparoRepetidoException
+comment0.text=\r\n\ Se\ lanza\ cuando\ se\ dispara\ a\ una\ casilla\ que\ ya\ hab\u00EDa\ sido\ atacada.\r\n
+comment1.params=mensaje
+comment1.target=DisparoRepetidoException(java.lang.String)
+numComments=2

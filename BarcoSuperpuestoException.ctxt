@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BarcoSuperpuestoException
+comment0.text=\r\n\ Se\ lanza\ cuando\ se\ intenta\ poner\ un\ barco\ encima\ de\ otro.\r\n
+comment1.params=mensaje
+comment1.target=BarcoSuperpuestoException(java.lang.String)
+numComments=2

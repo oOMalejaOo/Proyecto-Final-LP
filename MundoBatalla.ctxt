@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MundoBatalla
+comment0.text=\r\n\ Mundo\ de\ Greenfoot\:\ dibuja\ los\ dos\ tableros\ y\ maneja\ los\ clics\ y\ teclas.\r\n\r\n\ Controles\:\r\n\ \ \ -\ Clic\ en\ TU\ tablero\ (izquierda)\:\ coloca\ el\ barco\ actual.\r\n\ \ \ -\ R\:\ gira\ el\ barco\ (horizontal\ /\ vertical).\r\n\ \ \ -\ A\:\ coloca\ toda\ la\ flota\ autom\u00E1ticamente.\r\n\ \ \ -\ Clic\ en\ el\ tablero\ RIVAL\ (derecha)\:\ disparar.\r\n\ \ \ -\ Enter\:\ reiniciar\ cuando\ termina\ la\ partida.\r\n
+comment1.params=
+comment1.target=MundoBatalla()
+comment10.params=
+comment10.target=void\ colocarAutomatico()
+comment2.params=
+comment2.target=void\ dibujarFondo()
+comment3.params=
+comment3.target=void\ crearCasillas()
+comment4.params=
+comment4.target=void\ refrescar()
+comment4.text=Actualiza\ la\ imagen\ de\ todas\ las\ casillas\ seg\u00FAn\ los\ tableros.
+comment5.params=
+comment5.target=void\ mostrarMensajes()
+comment6.params=fila\ col\ esRival
+comment6.target=void\ clicCasilla(int,\ int,\ boolean)
+comment6.text=Lo\ llama\ CasillaVisual\ cuando\ se\ le\ hace\ clic.
+comment7.params=fila\ col
+comment7.target=void\ colocarBarcoHumano(int,\ int)
+comment8.params=fila\ col
+comment8.target=void\ dispararHumano(int,\ int)
+comment9.params=
+comment9.target=void\ act()
+numComments=11

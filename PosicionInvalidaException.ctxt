@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PosicionInvalidaException
+comment0.text=\r\n\ Se\ lanza\ cuando\ una\ coordenada\ est\u00E1\ fuera\ del\ tablero\r\n\ o\ cuando\ un\ barco\ no\ cabe\ en\ la\ posici\u00F3n\ elegida.\r\n
+comment1.params=mensaje
+comment1.target=PosicionInvalidaException(java.lang.String)
+numComments=2

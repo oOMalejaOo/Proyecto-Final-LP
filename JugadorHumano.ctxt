@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=JugadorHumano
+comment0.text=\r\n\ Jugador\ controlado\ por\ una\ persona.\ En\ Greenfoot\ el\ disparo\ no\ se\ lee\r\n\ por\ teclado\:\ el\ mundo\ guarda\ la\ casilla\ donde\ se\ hizo\ clic\ y\r\n\ elegirDisparo()\ la\ entrega.\r\n
+comment1.params=nombre
+comment1.target=JugadorHumano(java.lang.String)
+comment2.params=
+comment2.target=boolean\ esHumano()
+comment3.params=
+comment3.target=void\ colocarFlota()
+comment3.text=Coloca\ la\ flota\ autom\u00E1ticamente\ (cuando\ se\ presiona\ la\ tecla\ A).
+comment4.params=fila\ col
+comment4.target=void\ setDisparo(int,\ int)
+comment4.text=Guarda\ la\ casilla\ donde\ la\ persona\ hizo\ clic.
+comment5.params=
+comment5.target=int[]\ elegirDisparo()
+numComments=6

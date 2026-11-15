@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Barco
+comment0.text=\r\n\ Clase\ abstracta\ que\ representa\ un\ barco\ cualquiera.\r\n\ Cada\ tipo\ de\ barco\ (hija)\ define\ su\ nombre\ y\ su\ tama\u00F1o.\r\n
+comment1.params=nombre\ tamanio
+comment1.target=Barco(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ recibirImpacto()
+comment3.params=
+comment3.target=boolean\ estaHundido()
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=int\ getTamanio()
+numComments=6

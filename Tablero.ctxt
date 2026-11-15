@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Tablero
+comment0.text=\r\n\ Tablero\ de\ juego.\ Guarda\ una\ matriz\ de\ caracteres\ para\ saber\ qu\u00E9\ hay\r\n\ en\ cada\ casilla\ y\ una\ matriz\ de\ barcos\ para\ saber\ qu\u00E9\ barco\ es.\r\n
+comment1.params=tamanio
+comment1.target=Tablero(int)
+comment2.params=
+comment2.target=int\ getTamanio()
+comment3.params=fila\ col
+comment3.target=boolean\ estaDentro(int,\ int)
+comment4.params=fila\ col
+comment4.target=char\ getSimbolo(int,\ int)
+comment4.text=Devuelve\ el\ s\u00EDmbolo\ de\ una\ casilla\ (~,\ B,\ X\ u\ O).
+comment5.params=fila\ col
+comment5.target=Barco\ getBarcoEn(int,\ int)
+comment5.text=Devuelve\ el\ barco\ que\ est\u00E1\ en\ una\ casilla\ (o\ null\ si\ es\ agua).
+comment6.params=barco\ fila\ col\ horizontal
+comment6.target=void\ colocarBarco(Barco,\ int,\ int,\ boolean)
+comment7.params=fila\ col
+comment7.target=java.lang.String\ recibirDisparo(int,\ int)
+comment7.text=\r\n\ Procesa\ un\ disparo\ y\ devuelve\ "AGUA",\ "TOCADO"\ o\ "HUNDIDO".\r\n
+comment8.params=
+comment8.target=boolean\ todosHundidos()
+numComments=9
